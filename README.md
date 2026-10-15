@@ -7,10 +7,10 @@ Md Asfiqur Rahman, Yi Wang* Department of Mechanical Engineering, University of 
 Status: 
 Manuscript under review at Transport in Porous Media (Springer)
 
-Overview
+Overview:
 This repository will host the source code for DPMInterFoam, a coupled Volume of Fluid (VOF)–Discrete Element Method (DEM) solver developed
 within the open-source OpenFOAM framework for three-phase (gas–liquid–solid) systems. The solver combines the VOF method for gas–liquid interface 
-capturing with a fully coupled Eulerian–Lagrangian DEM formulation to resolve particle dynamics.DPMInterFoam is verified against a three-dimensional 
+capturing with a fully coupled Eulerian–Lagrangian DEM formulation to resolve particle dynamics. DPMInterFoam is verified against a three-dimensional 
 dam-break benchmark and evaluated on particle migration and drainage behavior in a perforated domain across a range of particle volume fractions,
 including a direct comparison against OpenFOAM's default MPPICInterFoam solver.
 
